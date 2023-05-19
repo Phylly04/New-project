@@ -21,8 +21,8 @@ Clone the repository:
 git clone https://github.com/Phylly04/New-project.git
 Ensure you have Python installed on your machine.
 
-Run the login_system.py file:
-python login_system.py
+Run the Task_manager.py file:
+python Task_manager.py
 Follow the on-screen instructions to register new users, log in, and manage tasks.
 
 Requirements
